@@ -265,4 +265,4 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
 ## Acknowledgments
 
-Built with Spring Boot and React —感谢每一次尝试
+Built with Spring Boot and React — SRV
